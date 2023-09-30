@@ -1,0 +1,3 @@
+class ListellipsetwelveItemModel {
+  String? id = "";
+}

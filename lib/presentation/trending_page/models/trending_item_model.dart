@@ -1,0 +1,3 @@
+class TrendingItemModel {
+  String? id = "";
+}

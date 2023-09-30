@@ -1,0 +1,3 @@
+class ForyouItemModel {
+  String? id = "";
+}

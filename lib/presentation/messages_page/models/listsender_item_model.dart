@@ -1,0 +1,3 @@
+class ListsenderItemModel {
+  String? id = "";
+}

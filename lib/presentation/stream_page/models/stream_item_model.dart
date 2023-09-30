@@ -1,0 +1,3 @@
+class StreamItemModel {
+  String? id = "";
+}

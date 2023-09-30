@@ -1,0 +1,3 @@
+class CommentsItemModel {
+  String? id = "";
+}
